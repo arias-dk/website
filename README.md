@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  we build SaaS solutions
+  We develop SaaS solutions
 </h1>
 
 <p>&nbsp;</p>
